@@ -1,0 +1,7 @@
+C:\Users\QUOCDUY\source\repos\BaiLab\bin\Debug\BaiLab.exe.config
+C:\Users\QUOCDUY\source\repos\BaiLab\bin\Debug\BaiLab.exe
+C:\Users\QUOCDUY\source\repos\BaiLab\bin\Debug\BaiLab.pdb
+C:\Users\QUOCDUY\source\repos\BaiLab\obj\Debug\BaiLab.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\source\repos\BaiLab\obj\Debug\BaiLab.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\source\repos\BaiLab\obj\Debug\BaiLab.exe
+C:\Users\QUOCDUY\source\repos\BaiLab\obj\Debug\BaiLab.pdb
